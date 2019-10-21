@@ -1,0 +1,22 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter id="svg_1_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="#f2b705" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text filter="url(#svg_1_blur)" font-weight="bold" stroke="#000" transform="matrix(5.895259087631693,0,0,4.493855014271538,-2814.035622399112,-666.8187623556693) " xml:space="preserve" text-anchor="start" font-family="Euphoria, sans-serif" font-size="24" id="svg_1" y="199.76555" x="477.455326" fill="#000000">DeWALT</text>
+  <line stroke-width="5" stroke-linecap="null" stroke-linejoin="null" id="svg_3" y2="127.4375" x2="592.5" y1="124.4375" x1="-5.5" fill-opacity="null" stroke-opacity="null" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_4" y2="262.4375" x2="689.5" y1="264.4375" x1="689.5" fill-opacity="null" stroke-opacity="null" stroke="#000" fill="none"/>
+  <line stroke-width="5" stroke-linecap="null" stroke-linejoin="null" id="svg_5" y2="260.4375" x2="588.5" y1="257.4375" x1="-9.5" fill-opacity="null" stroke-opacity="null" stroke="#000" fill="none"/>
+ </g>
+</svg>
